@@ -53,6 +53,14 @@ Each exercise file contains:
 - Decorator factories with full type safety
 - Method decorators with `self` handling
 
+### Exercise 6: TypedDict and Type Guards
+`exercises/ex06_typeddict_and_guards.py`
+- `TypedDict` for typed dictionary structures (JSON, API responses)
+- `NotRequired` for optional keys
+- Nested `TypedDict` for complex structures
+- `TypeGuard` for custom type narrowing functions
+- Discriminated unions with `Literal` type fields
+
 ## Workflow
 
 1. Read the exercise file and understand the concepts
