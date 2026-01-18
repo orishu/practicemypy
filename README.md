@@ -46,6 +46,13 @@ Each exercise file contains:
 - `@overload` for multiple signatures
 - `Literal` types with overloads
 
+### Exercise 5: ParamSpec and Concatenate
+`exercises/ex05_paramspec.py`
+- `ParamSpec` for preserving function signatures in decorators
+- `Concatenate` for adding/removing parameters
+- Decorator factories with full type safety
+- Method decorators with `self` handling
+
 ## Workflow
 
 1. Read the exercise file and understand the concepts
