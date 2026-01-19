@@ -61,6 +61,14 @@ Each exercise file contains:
 - `TypeGuard` for custom type narrowing functions
 - Discriminated unions with `Literal` type fields
 
+### Exercise 7: ClassVar, Final, and Self
+`exercises/ex07_classvar_final_self.py`
+- `ClassVar` for class variables vs instance variables
+- `Final` for immutable values and constants
+- `@final` decorator to prevent subclassing/overriding
+- `Self` type for fluent interfaces and factory methods
+- Proper typing for method chaining and inheritance
+
 ## Workflow
 
 1. Read the exercise file and understand the concepts
