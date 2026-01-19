@@ -69,6 +69,14 @@ Each exercise file contains:
 - `Self` type for fluent interfaces and factory methods
 - Proper typing for method chaining and inheritance
 
+### Exercise 8: NewType, TypeAlias, Annotated, and cast
+`exercises/ex08_newtypes_aliases_annotated.py`
+- `NewType` for distinct types (UserId vs int)
+- `TypeAlias` for readable complex type definitions
+- `Annotated` for attaching metadata to types
+- `cast()` for type assertions when you know better
+- Building type-safe ID systems
+
 ## Workflow
 
 1. Read the exercise file and understand the concepts
