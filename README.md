@@ -77,6 +77,14 @@ Each exercise file contains:
 - `cast()` for type assertions when you know better
 - Building type-safe ID systems
 
+### Exercise 9: Variance - Covariance and Contravariance
+`exercises/ex09_variance.py`
+- Understanding why `list[Dog]` is not a subtype of `list[Animal]`
+- Covariant types (`covariant=True`) for read-only/producer patterns
+- Contravariant types (`contravariant=True`) for write-only/consumer patterns
+- Callable variance (contravariant args, covariant return)
+- Building type-safe pipelines with proper variance
+
 ## Workflow
 
 1. Read the exercise file and understand the concepts

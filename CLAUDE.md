@@ -24,6 +24,7 @@ practicemypy/
 6. **ex06_typeddict_and_guards.py** - TypedDict, TypeGuard, NotRequired
 7. **ex07_classvar_final_self.py** - ClassVar, Final, @final, Self
 8. **ex08_newtypes_aliases_annotated.py** - NewType, TypeAlias, Annotated, cast
+9. **ex09_variance.py** - Covariance, contravariance, variance in generics
 
 ## Commands
 
